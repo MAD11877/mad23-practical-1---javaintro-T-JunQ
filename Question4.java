@@ -8,15 +8,13 @@ public class Question4
     int num = in.nextInt();
 
     while (num > 0){
-      String str = "*";
       int i = num;
-    }
+    
       while (i-- > 0){
-        System.out.println(str);
+        System.out.println("*");
       }
-      
       System.out.println();
       num--;
-    
+    }
   }
 }
