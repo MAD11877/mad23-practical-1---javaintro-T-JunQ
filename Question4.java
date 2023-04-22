@@ -10,7 +10,7 @@ public class Question4
     while (num > 0){
       String str = "*";
       int i = num;
-      
+    }
       while (i-- > 0){
         System.out.print(str);
       }
