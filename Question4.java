@@ -12,7 +12,7 @@ public class Question4
       int i = num;
     }
       while (i-- > 0){
-        System.out.print(str);
+        System.out.println(str);
       }
       
       System.out.println();
