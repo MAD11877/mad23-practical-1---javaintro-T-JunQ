@@ -11,7 +11,7 @@ public class Question4
       int i = num;
     
       while (i-- > 0){
-        System.out.println("*");
+        System.out.print("*");
       }
       System.out.println();
       num--;
