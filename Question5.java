@@ -29,7 +29,7 @@ public class Question5
             }
             if (count>max)
             {
-              count = max;
+              max = count;
               repeat = i;
             }
           }
